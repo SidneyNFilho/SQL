@@ -1,3 +1,3 @@
 # Case Study 1 - Danny's Dinner
 
-## [**In progress..**]
+## [*Work in progress...*]
